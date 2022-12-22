@@ -1,4 +1,4 @@
 StudentID:2213111467
 Fullname(In English): Kanathip Amornnak
 AKA: Yuuki
-ClassDetail:Array in Java
+ClassDetail: Class and Object, Array of Object
