@@ -9,7 +9,7 @@ public class BookDemo2 {
 		int page =Integer.parseInt(JOptionPane.showInputDialog("Input book page:"));
 	    int response = JOptionPane.showConfirmDialog(null, "Is the page correct", "Confirm",
 	        JOptionPane.YES_NO_OPTION, JOptionPane.QUESTION_MESSAGE);
-	    if (response == JOptionPane.NO_OPTION) {
+	    while (response == JOptionPane.NO_OPTION) {
 	    	page = Integer.parseInt(JOptionPane.showInputDialog("Input book page,again:"));
 	    }
 	    //Author author = new Author(name,email);
