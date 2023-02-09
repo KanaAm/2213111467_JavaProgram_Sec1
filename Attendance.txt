@@ -1,4 +1,4 @@
 StudentID:2213111467
 Fullname(In English): Kanathip Amornnak
 AKA: Yuuki
-ClassDetail: Exception + File (W / R)
+ClassDetail: Abstract and Interface
